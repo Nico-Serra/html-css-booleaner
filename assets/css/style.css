@@ -16,6 +16,10 @@ body{
     top: 100px;
 }
 
+#site_main{
+    margin: 10px;
+}
+
 h4{
     color: #d2d2d2FF;
 }
@@ -35,4 +39,14 @@ thead{
 
 .riga{
     background-color: #b1e5f2FF;
+}
+
+#site_footer{
+    position: static;
+}
+.text{
+    position: absolute;
+    left: 25px;
+    font-size: 2em;
+    color: white;
 }
