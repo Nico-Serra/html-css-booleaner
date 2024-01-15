@@ -1,9 +1,6 @@
-*{
-    padding: 0;
+body{
     margin: 0;
-    box-sizing: border-box;
 }
-
 #Container{
     background-color: #4ea0ffFF;
     background-image: url(../img/pattern.png);
@@ -13,10 +10,21 @@
 }
 
 #logo{
-    width: 350px;
+    width: 250px;
     position: relative;
     left: 10px;
     top: 100px;
 }
 
+h4{
+    color: #d2d2d2FF;
+}
 
+#item{
+    color: #6CC7ED
+;
+}
+
+.item1{
+    background-color: yellow;
+}
