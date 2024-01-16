@@ -42,11 +42,20 @@ thead{
 }
 
 #site_footer{
-    position: static;
-}
-.text{
-    position: absolute;
-    left: 25px;
-    font-size: 2em;
     color: white;
+    font-size: 2rem;
 }
+
+#p1{
+    background-image: url(../img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+}
+
+#p2{
+    background-image: url(../img/graph.jpg);
+    width: 300px;
+    height: 200px;
+}
+}
+
